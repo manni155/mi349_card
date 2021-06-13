@@ -51,7 +51,7 @@ h2 {
 .contacts li a img:hover {
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s;
-=======
+
 body {
     background-color: #ccc;
     font-family: Helvetica, sans-serif;
@@ -104,5 +104,4 @@ h2 {
 .contacts li a img:hover {
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s;
->>>>>>> 57e4e3bd21e8fae06166d43f2651aa867dd2cf92
 }
