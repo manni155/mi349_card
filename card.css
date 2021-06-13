@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: #ccc;
     font-family: Helvetica, sans-serif;
@@ -50,4 +51,58 @@ h2 {
 .contacts li a img:hover {
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s;
+=======
+body {
+    background-color: #ccc;
+    font-family: Helvetica, sans-serif;
+    color: #222;
+    margin-top: 100px;
+}
+
+img {
+    width: 100%;
+}
+
+.card {
+    background-color: #f3f3f3;
+    border-radius: 15px;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: rgba(0,0,0, 0.1) 0 0 20px;
+    border: 1px solid #aaa;
+}
+
+h1 {
+    margin: 15px 0;
+}
+
+h2 {
+    margin: 0;
+}
+
+.card .avatar {
+    width: 100px;
+    border-radius: 50%;
+    margin-top: -50px;
+    box-shadow: rgba(0,0,0, 0.1) 0 0 20px;
+    border: 1px solid #aaa;
+}
+
+.contacts {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.contacts li {
+    width: 30px;
+    display: inline-block;
+    padding: 20px 10px;
+}
+
+.contacts li a img:hover {
+    opacity: 0.5;
+    transition: opacity ease-in-out 0.2s;
+>>>>>>> 57e4e3bd21e8fae06166d43f2651aa867dd2cf92
 }
